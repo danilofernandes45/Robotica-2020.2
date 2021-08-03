@@ -1,0 +1,4 @@
+[console_scripts]
+listener = controller.controller:main
+talker = controller.controller:main
+

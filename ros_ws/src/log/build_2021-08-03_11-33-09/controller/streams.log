@@ -1,0 +1,26 @@
+[0.225s] Invoking command in '/home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/controller': PYTHONPATH=/home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/install/controller/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/controller build --build-base /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/build/controller/build install --prefix /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/install/controller --record /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/build/controller/install.log --single-version-externally-managed
+[0.420s] running egg_info
+[0.420s] writing ../build/controller/controller.egg-info/PKG-INFO
+[0.420s] writing dependency_links to ../build/controller/controller.egg-info/dependency_links.txt
+[0.420s] writing entry points to ../build/controller/controller.egg-info/entry_points.txt
+[0.421s] writing requirements to ../build/controller/controller.egg-info/requires.txt
+[0.421s] writing top-level names to ../build/controller/controller.egg-info/top_level.txt
+[0.451s] reading manifest file '../build/controller/controller.egg-info/SOURCES.txt'
+[0.452s] writing manifest file '../build/controller/controller.egg-info/SOURCES.txt'
+[0.453s] running build
+[0.453s] running build_py
+[0.453s] copying controller/controller.py -> /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/build/controller/build/lib/controller
+[0.453s] running install
+[0.453s] running install_lib
+[0.454s] copying /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/build/controller/build/lib/controller/controller.py -> /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/install/controller/lib/python3.6/site-packages/controller
+[0.454s] byte-compiling /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/install/controller/lib/python3.6/site-packages/controller/controller.py to controller.cpython-36.pyc
+[0.455s] running install_data
+[0.455s] copying package.xml -> /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/install/controller/share/controller
+[0.455s] running install_egg_info
+[0.458s] removing '/home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/install/controller/lib/python3.6/site-packages/controller-0.0.0-py3.6.egg-info' (and everything under it)
+[0.458s] Copying ../build/controller/controller.egg-info to /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/install/controller/lib/python3.6/site-packages/controller-0.0.0-py3.6.egg-info
+[0.459s] running install_scripts
+[0.480s] Installing listener script to /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/install/controller/lib/controller
+[0.481s] Installing talker script to /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/install/controller/lib/controller
+[0.481s] writing list of installed files to '/home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/build/controller/install.log'
+[0.507s] Invoked command in '/home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/controller' returned '0': PYTHONPATH=/home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/install/controller/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/controller build --build-base /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/build/controller/build install --prefix /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/install/controller --record /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/build/controller/install.log --single-version-externally-managed

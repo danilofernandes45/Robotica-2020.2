@@ -1,0 +1,22 @@
+[0.217s] Invoking command in '/home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/controller': PYTHONPATH=/home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/install/controller/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/controller build --build-base /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/build/controller/build install --prefix /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/install/controller --record /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/build/controller/install.log --single-version-externally-managed
+[0.407s] running egg_info
+[0.407s] writing ../../build/controller/controller.egg-info/PKG-INFO
+[0.407s] writing dependency_links to ../../build/controller/controller.egg-info/dependency_links.txt
+[0.407s] writing entry points to ../../build/controller/controller.egg-info/entry_points.txt
+[0.408s] writing requirements to ../../build/controller/controller.egg-info/requires.txt
+[0.408s] writing top-level names to ../../build/controller/controller.egg-info/top_level.txt
+[0.432s] reading manifest file '../../build/controller/controller.egg-info/SOURCES.txt'
+[0.433s] writing manifest file '../../build/controller/controller.egg-info/SOURCES.txt'
+[0.433s] running build
+[0.433s] running build_py
+[0.433s] running install
+[0.434s] running install_lib
+[0.435s] running install_data
+[0.435s] running install_egg_info
+[0.436s] removing '/home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/install/controller/lib/python3.6/site-packages/controller-0.0.0-py3.6.egg-info' (and everything under it)
+[0.437s] Copying ../../build/controller/controller.egg-info to /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/install/controller/lib/python3.6/site-packages/controller-0.0.0-py3.6.egg-info
+[0.437s] running install_scripts
+[0.451s] Installing listener script to /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/install/controller/lib/controller
+[0.451s] Installing talker script to /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/install/controller/lib/controller
+[0.452s] writing list of installed files to '/home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/build/controller/install.log'
+[0.469s] Invoked command in '/home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/src/controller' returned '0': PYTHONPATH=/home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/install/controller/lib/python3.6/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/controller build --build-base /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/build/controller/build install --prefix /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/install/controller --record /home/danilo/Documents/Engenharia de Computação/Robótica/Robotica-2020.2/ros_ws/build/controller/install.log --single-version-externally-managed
